@@ -1,0 +1,23 @@
+{
+  "crd": {
+    "description": "Main currency of the metaverse."
+  },
+  "craftingtable": {
+    "description": "Craftingtable is used to craft things."
+  },
+  "stick": {
+    "description": "Sticks grows on trees."
+  },
+  "stone": {
+    "description": "Stones are found on the ground."
+  },
+  "sword": {
+    "description": "Sword is used to hit things."
+  },
+  "wood": {
+    "description": "Wood grows on trees."
+  },
+  "lightsaber": {
+    "description": "Lightsaber destroys things."
+  }
+}
