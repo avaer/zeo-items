@@ -24,6 +24,9 @@
   "wood": {
     "description": "Wood grows on trees."
   },
+  "mirror": {
+    "description": "Mirror reflects things. Smile!"
+  },
   "lightsaber": {
     "description": "Lightsaber destroys things.",
     "authority": -2088814433
