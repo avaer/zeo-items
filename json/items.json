@@ -3,6 +3,9 @@
     "description": "Main currency of the metaverse.",
     "authority": -2088814433
   },
+  "file": {
+    "description": "A file."
+  },
   "craftingtable": {
     "description": "Craftingtable is used to craft things."
   },
