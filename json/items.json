@@ -6,6 +6,9 @@
   "file": {
     "description": "A file."
   },
+  "skin": {
+    "description": "An avatar skin."
+  },
   "craftingtable": {
     "description": "Craftingtable is used to craft things."
   },
