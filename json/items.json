@@ -1,6 +1,7 @@
 {
   "crd": {
-    "description": "Main currency of the metaverse."
+    "description": "Main currency of the metaverse.",
+    "authority": -2088814433
   },
   "craftingtable": {
     "description": "Craftingtable is used to craft things."
@@ -18,6 +19,7 @@
     "description": "Wood grows on trees."
   },
   "lightsaber": {
-    "description": "Lightsaber destroys things."
+    "description": "Lightsaber destroys things.",
+    "authority": -2088814433
   }
 }
