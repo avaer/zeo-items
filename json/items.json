@@ -12,6 +12,9 @@
   "craftingtable": {
     "description": "Craftingtable is used to craft things."
   },
+  "flintsteel": {
+    "description": "Flintsteel is used to blow things up."
+  },
   "chest": {
     "description": "Chest is used to store things."
   },
