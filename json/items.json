@@ -36,6 +36,9 @@
   "mirror": {
     "description": "Mirror reflects things. Smile!"
   },
+  "gun": {
+    "description": "Gun shoots things."
+  },
   "lightsaber": {
     "description": "Lightsaber destroys things.",
     "authority": -2088814433
