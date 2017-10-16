@@ -9,6 +9,12 @@
   "skin": {
     "description": "An avatar skin."
   },
+  "meat": {
+    "description": "Meat is used to greet."
+  },
+  "hide": {
+    "description": "Hide is used to seek."
+  },
   "craftingtable": {
     "description": "Craftingtable is used to craft things."
   },
