@@ -24,6 +24,12 @@
   "chest": {
     "description": "Chest is used to store things."
   },
+  "map": {
+    "description": "Map finds things."
+  },
+  "drone": {
+    "description": "Drone drones things."
+  },
   "firework": {
     "description": "Firework is used to work fire."
   },
@@ -46,7 +52,6 @@
     "description": "Gun shoots things."
   },
   "lightsaber": {
-    "description": "Lightsaber destroys things.",
-    "authority": -2088814433
+    "description": "Lightsaber destroys things."
   }
 }
