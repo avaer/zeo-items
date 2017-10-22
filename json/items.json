@@ -24,6 +24,12 @@
   "chest": {
     "description": "Chest is used to store things."
   },
+  "pickaxe": {
+    "description": "Pickaxe is used to pick the dirt to axe."
+  },
+  "hammer": {
+    "description": "Hammer is used to build dirt."
+  },
   "paper": {
     "description": "Paper is used to draw things."
   },
@@ -44,6 +50,9 @@
   },
   "sword": {
     "description": "Sword is used to hit things."
+  },
+  "bow": {
+    "description": "Bow is used to poke things."
   },
   "wood": {
     "description": "Wood grows on trees."
