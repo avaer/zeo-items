@@ -24,6 +24,9 @@
   "chest": {
     "description": "Chest is used to store things."
   },
+  "paper": {
+    "description": "Paper is used to draw things."
+  },
   "map": {
     "description": "Map finds things."
   },
